@@ -17,7 +17,7 @@
 
   <p align="center">
     <a href="https://discord.com/users/923241366820122717">
-        <img title="Shadow Community discord" alt="Fnoberz's discord" src="[https://discord.c99.nl/widget/theme-4/943374631644045363.png](https://media.discordapp.net/attachments/1029740752667943023/1035622857801203772/unknown.png)"/>
+        <img title="Shadow Community discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-1/923241366820122717.png"/>
     </a>
 </p> 
  
