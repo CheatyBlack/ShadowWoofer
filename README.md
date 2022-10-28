@@ -17,7 +17,7 @@
 
   <p align="center">
     <a href="https://discord.com/users/923241366820122717">
-        <img title="Shadowzin server discord" alt="Shadowzin's discord "https://img001.prntscr.com/file/img001/xItwgeMLT_CsJYn8cBTj4w.png"/>
+        <img title="Shadowzin server discord" alt="Shadowzin's discord "https://img001.prntscr.com/file/img001/xItwgeMLTCsJYn8cBTj4w.png"/>
     </a>
 </p> 
  
@@ -45,4 +45,4 @@ A website that I created to introduce myself from start to finish. hope you like
 
 <h2 align="center"> Copyright © 2021 - 2022
 
-##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/cSRgV9Yeh4)
+##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/MBTkVcJefp)
