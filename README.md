@@ -17,7 +17,7 @@
 
   <p align="center">
     <a href="https://discord.com/users/923241366820122717">
-        <img title="Shadowzin server discord" alt="Shadowzin's discord "https://img001.prntscr.com/file/img001/xItwgeMLTCsJYn8cBTj4w.png"/>
+        <img title="Shadowzin server discord" alt="Shadowzin's discord "https://media.discordapp.net/attachments/1029740752667943023/1035622857801203772/unknown.png"/>
     </a>
 </p> 
  
