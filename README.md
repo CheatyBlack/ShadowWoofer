@@ -8,8 +8,8 @@
 
 
 ## 🔎 〢 How To Setup 
-- This source is 100% free and no SUPPORT.
-- Our customer recorded a video and tested it. Don't be surprised if it's not my name.
+- Execute zcheck admin permission.
+- Execute zstart admin permission.
 
 
 
