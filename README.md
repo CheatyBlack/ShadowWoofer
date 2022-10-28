@@ -8,7 +8,7 @@
 
 
 ## 🔎 〢 How To Setup 
-- Oh sorry, it's not free. We just show we work and we are **Legit only.** | `Buy In Discord`
+- This source is 100% free and no SUPPORT.
 - Our customer recorded a video and tested it. Don't be surprised if it's not my name.
 
 
@@ -38,7 +38,6 @@
 - Private server.
 - If you get banned, we'll be happy to refund.
 
-A website that I created to introduce myself from start to finish. hope you like it [Fnoberz.com](https://fnoberz.com/)
 
 ---
 
